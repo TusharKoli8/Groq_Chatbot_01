@@ -1,2 +1,25 @@
-# Groq_Chatbot_01
-An AI powered chatbot built using Streamlit and Groq API that provides real time conversational responses. The chatbot maintains chat history, delivers fast replies using modern LLMs, and offers a simple, interactive user interface for seamless user experience.
+#  AI Chatbot (Streamlit + Groq)
+
+##  Overview
+
+A lightweight AI chatbot using Streamlit and Groq for fast responses.
+
+##  Features
+
+* Real-time chat
+* Fast LLM responses
+* Chat history
+
+##  Setup
+
+--bash
+pip install -r requirements.txt
+
+
+##  Run
+
+--bash
+streamlit run app.py
+
+
+
